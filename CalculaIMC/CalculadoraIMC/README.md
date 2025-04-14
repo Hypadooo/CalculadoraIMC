@@ -1,10 +1,10 @@
-# 📱 Calculadora de IMC
+#  Calculadora de IMC
 
 Este projeto é um aplicativo Android desenvolvido em Java, com o objetivo de calcular o IMC (Índice de Massa Corporal) do usuário e exibir um feedback visual e textual com base na sua classificação. O app conta com múltiplas telas (Activities), cada uma representando uma categoria de IMC diferente.
 
 ---
 
-## 👤 Informações do Aluno
+##  Informações do Aluno
 
 **Nome:** Lucas Oliveira Batista
 **Curso:** Análise e Desenvolvimento de Sistemas — FECAP - 3 Semestre 
@@ -13,7 +13,7 @@ Este projeto é um aplicativo Android desenvolvido em Java, com o objetivo de ca
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - Java
 - Android Studio
@@ -23,7 +23,7 @@ Este projeto é um aplicativo Android desenvolvido em Java, com o objetivo de ca
 
 ---
 
-## 📊 Categorias de IMC
+##  Categorias de IMC
 
 - Abaixo do peso
 - Peso normal
