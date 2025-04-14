@@ -6,7 +6,7 @@ Este projeto é um aplicativo Android desenvolvido em Java, com o objetivo de ca
 
 ---
 
- # Informações da Aluno
+ # Informações do Aluno
 
 **Nome:** Lucas Oliveira Batista
 **Curso:** Análise e Desenvolvimento de Sistemas — FECAP - 3 Semestre 
